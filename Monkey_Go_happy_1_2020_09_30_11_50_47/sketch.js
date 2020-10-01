@@ -39,8 +39,6 @@ ground = createSprite(300,610,600,10)
 bananaGroup = new Group()
 obstacleGroup = new Group()
 
-
-obstacle.setCollider
 }
 
 
